@@ -1,0 +1,109 @@
+#app_background { background-color: $colorBackgroundDark; }
+
+#primary-color { color: $colorTextPrimary; }
+#secondary-color { color: $colorTextSecondary; }
+
+#menu_title {
+	font-weight: bold;
+	font-size: 32px;
+	padding-bottom: 32px;
+	color: $colorTextLink;
+}
+
+#menu_input {
+	background-color: $colorButton;
+	border: 2px solid $colorButtonHover;
+	border-radius: 5px;
+	padding: 2px 5px;
+}
+
+#menu_button {
+	background-color: $colorButton;
+	color: $colorTextPrimary;
+	border-radius: 20px;
+	height: 40px;
+}
+#menu_button:hover {
+	background-color: $colorButtonHover;
+}
+
+#remember_me {
+	color: $colorTextLink;
+}
+
+#clickable_label {
+	border: 0;
+	color: $colorTextLink;
+}
+#clickable_label:hover {
+	background-color: $colorButtonHover;
+	color: $colorTextPrimary;
+}
+
+#active_music_view { background-color: $colorBackgroundDark; }
+
+#music_control_bar {
+	background-color: $colorBackgroundDark;
+}
+#sidebar {
+	background-color: $colorBackgroundDark;
+}
+#list_bar {
+	background-color: $colorBackgroundLight;
+}
+#headerbar {
+	background-color: $colorBackgroundDark;
+}
+
+#sidebar_menu {
+	padding: 10px;
+	border-radius: 10px;
+	background-color: $colorBackgroundLight;
+}
+#sidebar_title {
+	font-weight: bold;
+}
+#sidebar_item {
+	border: none;
+	background-color: transparent;
+	text-align: left;
+	color: $colorTextPrimary;
+}
+#sidebar_item:hover {
+	background-color: $colorButtonHover;
+}
+#sidebar_divider {
+	background-color: black;
+}
+
+#scroll_area {
+	outline: none;
+	border: none;
+}
+
+#transparent_button {
+	border: 0;
+	background-color: transparent;
+}
+
+QPushButton {
+	outline: none;
+}
+
+QLabel {
+	color: $colorTextPrimary;
+}
+
+QDialog {
+	background-color: $colorBackgroundDark;
+}
+
+QScrollBar:vertical {
+	background: #fff;
+	width: 10px;
+}
+QScrollBar::handle:vertical {
+	background: #888;
+	min-height: 20px;
+	border-radius: 4px;
+}

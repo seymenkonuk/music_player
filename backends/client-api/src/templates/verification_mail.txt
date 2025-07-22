@@ -1,0 +1,11 @@
+Merhaba,
+
+Bu e-posta, hesabınızın doğrulanması için gönderilmiştir. Hesabınızı doğrulamak ve hizmetlerimizi kullanmaya başlamak için;
+Doğrulama Kodu: $code
+
+Eğer hesabınızı oluşturmadıysanız veya bu doğrulama isteğini tanımıyorsanız, bu e-postayı dikkate almayınız ve hemen bize bildiriniz.
+
+Teşekkür ederiz.
+
+Saygılarımızla,
+<Marka İsmi>
