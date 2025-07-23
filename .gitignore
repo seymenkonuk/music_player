@@ -5,3 +5,6 @@
 
 **/db/*
 !**/db/.gitkeep
+
+docs/demo/AuthDemo.mp4
+docs/demo/MusicPlayer.mp4

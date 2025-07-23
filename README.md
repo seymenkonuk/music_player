@@ -38,6 +38,14 @@ Sunduğu özellikler:
 
 Projeye ait diğer görsellere [docs/images/](docs/images/) dizininden erişebilirsiniz.
 
+**Kayıt Giriş Sistemi**
+
+https://github.com/user-attachments/assets/023b9493-3673-431f-b055-5e5652faabca
+
+**Müzik Çalar**
+
+https://github.com/user-attachments/assets/cdc8cc91-1753-4b2b-9fbb-d580bb72f57b
+
 ---
 
 ## Başlangıç
